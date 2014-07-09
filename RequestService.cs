@@ -119,7 +119,7 @@ namespace iMCService
                 { 
                     RenewReq(); 
                 }
-                Thread.Sleep(TimeSpan.FromMilliseconds(300000));
+                Thread.Sleep(TimeSpan.FromMilliseconds(180000));
             }
         }
 
