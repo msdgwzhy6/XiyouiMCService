@@ -71,7 +71,7 @@
     <EmbeddedResource Include="Newtonsoft.Json.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Settings.xml">
+    <Content Include="iMCSettings.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
